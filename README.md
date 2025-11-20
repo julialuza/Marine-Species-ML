@@ -28,16 +28,21 @@ A Python/Keras project for classifying 13 marine species from images using a Con
 git clone https://github.com/julialuza/Marine-Species-ML.git
 cd Marine-Species-ML
 ```
-2. Install dependencies: pip install -r requirements.txt
-3. Run app.py.
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+5. Run app.py.
 
 All details about the dataset, database tables, and project diagrams are available in:
 **docs/dokumentacja_projektu.pdf**
 
 Application interface:  
+
 ![App Interface](docs/screenshots/interface.png)
 
-Classification example - whale:
+Classification example - whale:  
+
 ![Whale Classification](docs/screenshots/whale_example.png)
 
 
