@@ -13,6 +13,8 @@ A Python/Keras project for classifying 13 marine species from images using a Con
 
 ## Notes
 
+- All details about the dataset, database tables, and project diagrams are available in:
+**docs/dokumentacja_projektu.pdf**
 - Dataset is not included due to size.  
 - This repository is intended for portfolio purposes and demonstrates hands-on experience in machine learning.
 
@@ -32,10 +34,7 @@ cd Marine-Species-ML
 ```bash
 pip install -r requirements.txt
 ```
-5. Run app.py.
-
-All details about the dataset, database tables, and project diagrams are available in:
-**docs/dokumentacja_projektu.pdf**
+3. Run app.py.
 
 Application interface:  
 
